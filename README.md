@@ -1,8 +1,7 @@
 # Paytimate POS — Mobile App Developer Intern Assignment
 
 A single-screen, offline-first Point-of-Sale prototype built for the Paytimate
-Technologies mobile app developer internship assignment. Browse a product
-catalog, search/filter it in real time, add items to a cart, and see the
+Technologies mobile app developer . Browse a product catalog, search/filter it in real time, add items to a cart, and see the
 running total update instantly — with the cart surviving app restarts even
 with zero connectivity.
 
