@@ -1,4 +1,4 @@
-# Paytimate POS — Mobile App Developer Intern Assignment
+# Paytimate POS - Mobile App Developer
 
 A single-screen, offline-first Point-of-Sale prototype built for the Paytimate
 Technologies mobile app developer . Browse a product catalog, search/filter it in real time, add items to a cart, and see the
